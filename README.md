@@ -4,8 +4,8 @@ way that brought my abilities to where they are today. I've worked on web develo
 that processes data files and calculates scoring statistics, took several university courses on programming, worked on several game
 development projects that required extensive learning and use of C#, project planning and management, object oriented programming, and organization.
 I've also worked on various other projects, but I believe my training and research projects have had the most impact. Those projects include
-research on electromagnetic pulses in the atmosphere(physics and programming) and my project on Data Quality Optimization with Machine Learning
-for CERN's ATLAS experiment (Thesis in partial fulfillment of my Masters in Applied Physics).
+research on electromagnetic pulses in the atmosphere(physics and programming), a project on Data Quality Optimization with Machine Learning
+for CERN's ATLAS experiment (Thesis in partial fulfillment of my Masters in Applied Physics), and the 1 year contracted data science internship with the US Air Force Global Strike Command(AFGSC) where I spent managing a team, planning a project, and executing that project as a complex data science solution.
 
 - 👀 I’m interested in ... Many things of this world. Data Science, Statistics, Physics, Engineering, Building things, Machine Learning,
 Programming, Efficiency, Self Improvement and Mastery, Psychology, Martial Arts, Electronics, Language Learning, Music Performance,
