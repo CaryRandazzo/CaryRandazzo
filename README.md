@@ -19,7 +19,7 @@ Weather Forecast Models and optimization using Machine Learning, Stock Market pr
 python, deep learning, machine learning, project planning, data analysis, statistical methods, anomaly detection, big data, sql databases,
 experimentation, and research on data quality.
 
-- 💞️ I’m would be open to collaborating on various projects. The projects of most interest would be in areas similar to what I've
+- 💞️ I would be open to collaborating on various projects. The projects of most interest would be in areas similar to what I've
 mentioend previously in this profile. 
 
 - 📫 Contact me at randazzocary@gmail.com for professional or business related activities.
